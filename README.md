@@ -3,8 +3,9 @@
 Este script en Python permite sumar dos números, ya sean enteros (`int`) o flotantes (`float`). Antes de realizar la operación, valida que ambos operandos sean numéricos. En caso contrario, muestra un mensaje de error indicando que la entrada no es válida.
 
 ## Desarrollador
-  |Apellidos y Nombres| 
-  |Tucto Ubaldo Ricardo David|
+| Apellidos y Nombres | 
+|---------------------|
+| Tucto Ubaldo Ricardo David |
 ## Requisitos previos
 
 - Python 3.x instalado en el sistema.
